@@ -30,7 +30,7 @@
 
    </section>
 
-   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>toshita garg</span> | all rights reserved!</div>
+   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>152-153</span> | all rights reserved!</div>
 
 </footer>
 

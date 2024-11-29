@@ -127,6 +127,9 @@ include 'components/add_cart.php';
 
 
 </section>
+
+
+
 <section class="category">
 
    <h1 class="title">food category</h1>
